@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Virus Killer Game
 
-You can use the [editor on GitHub](https://github.com/thanhBkap/VirusKiller/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Nice to see you here!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you have trouble in the game, We will be ready to support you.
 
-### Markdown
+### Privacy Policy
+Devy built the VirusKiller app as a Free app. This SERVICE is provided by Devy at no cost and is intended for use as is.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Security
 
-```markdown
-Syntax highlighted code block
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-# Header 1
-## Header 2
-### Header 3
+### Changes to This Privacy Policy
 
-- Bulleted
-- List
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-1. Numbered
-2. List
+This policy is effective as of 2020-08-11
 
-**Bold** and _Italic_ and `Code` text
+### Contact Us
 
-[Link](url) and ![Image](src)
-```
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at +84345792739 or email thanhns.dev@icloud.com.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thanhBkap/VirusKiller/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
